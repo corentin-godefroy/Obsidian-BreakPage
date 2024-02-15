@@ -2,7 +2,7 @@
 	"id": "obsidian-break-page",
 	"name": "PDF break page",
 	"version": "1.0.0",
-	"description": "Add hotkey and command to insert a break page formating for pdf exports.",
+	"description": "Add shortkey and command to insert a break page formating for pdf exports.",
 	"author": "CG",
 	"authorUrl": "https://github.com/corentin-godefroy",
 	"isDesktopOnly": false
