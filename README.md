@@ -3,7 +3,7 @@
 Plugin for obsidian that adding shortcuts to create breakpages for pdf exports.
 
 ## How make it works
-Just type "Alt + b" shortcut by default where you want to add a break page.
+Just configure hotkey on options. Then type your shortcut where you want to add a break page.
 You can also type `/break` to find the command.
 
 ### Turning this :
