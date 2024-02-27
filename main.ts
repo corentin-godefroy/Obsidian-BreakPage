@@ -5,7 +5,7 @@ export default class ExamplePlugin extends Plugin {
 		this.addCommand({
 			id: "insert-break-page",
 			name: "Insert break page",
-			hotkeys: [{ modifiers: ["Alt"], key: "b" }],
+			hotkeys: [],
 			editorCallback: (editor: Editor) => {
 				const currentPosition = editor.getCursor();
 				editor.replaceRange(
